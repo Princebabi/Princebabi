@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Prince
 - 👀 I’m interested in astronomy and computing
-- 🌱 I’m currently learning software engineering
+- 🌱 I’m currently learning Electronics and Communication Engineering
 - 💞️ I’m looking to collaborate on web-designing
 - 📫 How to reach me : leulsintayehum@gmail.com
 - 😄 Pronouns: He/Him
